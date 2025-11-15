@@ -41,12 +41,25 @@ No network calls for search.
 📱 Screenshots (add these)
 
 Online Mode — Full list of 10 users loaded
+
+
 <img width="242" height="521" alt="Screenshot 2025-11-14 at 5 52 58 PM" src="https://github.com/user-attachments/assets/1f774439-4e76-41e7-b73b-1d0d43c98efa" />
+<img width="239" height="526" alt="Screenshot 2025-11-14 at 5 53 55 PM" src="https://github.com/user-attachments/assets/b426a8fa-a2ab-495a-9165-474002b1895c" />
+<img width="240" height="523" alt="Screenshot 2025-11-14 at 5 53 26 PM" src="https://github.com/user-attachments/assets/83055e90-a02c-4e88-b4fb-4010f2694c13" />
+
 
 
 Offline Mode — Same list visible with WiFi off
 
 Search Feature Working — e.g., searching “Leanne” or “an”
+
+<img width="235" height="527" alt="Screenshot 2025-11-14 at 5 55 57 PM" src="https://github.com/user-attachments/assets/07ad387c-8632-44b4-a754-66ac1c67b65a" />
+
+<img width="235" height="524" alt="Screenshot 2025-11-14 at 5 56 04 PM" src="https://github.com/user-attachments/assets/0b3c58ff-12bb-4845-aa93-509fa5130a79" />
+
+<img width="234" height="522" alt="Screenshot 2025-11-14 at 5 56 23 PM" src="https://github.com/user-attachments/assets/d45313b4-a4eb-41db-a817-849eb6affe58" />
+
+
 
 📝 How It Works (Short Explanation)
 
